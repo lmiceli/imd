@@ -1,7 +1,7 @@
 {
     "config": {
         "url": "http://imd.sevilla.org/app/jjddmm_resultados/",
-	"mode": "2",
+	"mode": "1",
         "com": "JUEGOS DEPORTIVOS MUNICIPALES 2016-2017"
     }
 }
